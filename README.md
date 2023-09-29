@@ -1,5 +1,5 @@
 # CLIM680
-# 🌍 **FLUXCOM xBase Dataset**
+## 🌍 **FLUXCOM xBase Dataset**
 > **Author**: *Tahmidul Azom Sany*  
 > **Affiliation**: PhD Student, Climate Dynamics, George Mason University  
 > **Contact**: [tsany@gmu.edu](mailto:tsany@gmu.edu)  
@@ -26,4 +26,3 @@ Zarr employs a hierarchical storage model, similar to directories and files in a
 - **Metadata**: Stored in a human-readable JSON format.
 - **Data Chunks**: Often compressed and stored as binary blobs.
 
----
